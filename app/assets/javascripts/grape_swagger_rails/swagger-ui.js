@@ -2669,6 +2669,8 @@ var Docs = {
                 }
             }
             I = E;
+            window.location.hash += ( '?url=' + B );
+            console.log(window.location.hash.substring(1));
             $(".request_url", $(this.el)).html("<pre></pre>");
             $(".request_url pre", $(this.el)).text(B);
             $(".response_code", $(this.el)).html("<pre>" + F.status + "</pre>");
