@@ -7,7 +7,7 @@
 //= require ./underscore-min
 //= require ./backbone-min
 //= require ./swagger
-//= require ./swagger-ui.min
+//= require ./swagger-ui
 //= require ./highlight.7.3.pack
 //= require ./swagger-oauth
 //= require ./base64
