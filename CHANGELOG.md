@@ -1,7 +1,29 @@
-### Next
+### 0.2.3 (Next)
 
-* [#6](https://github.com/TinkerDev/grape-swagger-rails/pull/6): Fix: support multiple predefined headers - [@Tyr0](https://github.com/tyr0).
 * Your contribution here.
+
+### 0.2.2 (July 13, 2016)
+
+* [#57](https://github.com/ruby-grape/grape-swagger-rails/pull/57): Support Swagger-UI supportedSubmitMethods option - [@ShadowWrathOogles](https://github.com/ShadowWrathOogles).
+* [#61](https://github.com/ruby-grape/grape-swagger-rails/pull/61): Removed grape and grape-swagger from required dependencies - [@aschuster3](https://github.com/aschuster3).
+
+### 0.2.1 (May 21, 2016)
+
+* Fixed header-based authorization - [@davidbrewer](https://github.com/davidbrewer).
+* Support Swagger-UI validatorUrl option - [@davidbrewer](https://github.com/davidbrewer).
+* Support for grape 0.14.x through 0.16.x and grape-swagger 0.11.x through 0.20.x - [@dblock](https://github.com/dblock).
+* [#55](https://github.com/ruby-grape/grape-swagger-rails/pull/55): Update Swagger-UI assets and add ability to hide input boxes - [@aschuster3](https://github.com/aschuster3).
+
+### 0.2.0 (February 23, 2016)
+
+* [#6](https://github.com/ruby-grape/grape-swagger-rails/pull/6): Fix: support multiple predefined headers - [@Tyr0](https://github.com/tyr0).
+* Upgraded swagger-ui to v2.1.1 - [@dblock](https://github.com/dblock).
+* Grape-swagger 0.7.2 is no longer supported - [@dblock](https://github.com/dblock).
+* Implemented RuboCop, Ruby-style linter - [@dblock](https://github.com/dblock).
+* [#31](https://github.com/ruby-grape/grape-swagger-rails/pull/31): Support Swagger-UI docExpansion option - [@maruware](https://github.com/maruware).
+* [#32](https://github.com/ruby-grape/grape-swagger-rails/pull/32): Fix Ruby 1.9.3 compatibility - [@suan](https://github.com/suan).
+* [#39](https://github.com/ruby-grape/grape-swagger-rails/pull/39): Support CSS media queries - [@alexagranov](https://github.com/alexagranov).
+* [#42](https://github.com/ruby-grape/grape-swagger-rails/pull/42): Headers added on swaggerUi initialization (before swaggerUi.load() call) - [@sedx](https://github.com/sedx).
 
 ### 0.1.0 (February 5, 2015)
 
